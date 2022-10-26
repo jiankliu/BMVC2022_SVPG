@@ -1,4 +1,4 @@
-# BMVC2022_SVPG
+# Spiking Variational Policy Gradient (SVPG) Network Model
 
 This repository contains some basic (easy to run) codes for the experiments in the BMVC paper:
 
