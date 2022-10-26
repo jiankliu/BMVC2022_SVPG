@@ -2,9 +2,7 @@
 
 This repository contains some basic (easy to run) codes for the experiments in the BMVC paper:
 
-No. 358
-
-Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks
+Biologically Plausible Variational Policy Gradient with Spiking Recurrent Winner-Take-All Networks. Yang, Z., Guo, S., Fang, Y., Liu, J. K. British Machine Vision Conference (2022) DOI: 10.48550/arXiv.2210.13225
 
 ## Prerequisites
 
